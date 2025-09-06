@@ -2,4 +2,6 @@ Analyzed a E-Commerce Sales Data and Created an Interactive Dashboad Using Power
 
 ---
 
-<img width="1030" height="577" alt="image" src="https://github.com/user-attachments/assets/cfce2810-b062-4013-8e8e-37d03c11e625" />
+<img width="1028" height="575" alt="image" src="https://github.com/user-attachments/assets/3548236f-6bb6-43c7-a42e-d4eba0faf53b" />
+
+---
